@@ -25,7 +25,7 @@ public class OssUtil {
     private String endpoint = "http://oss-cn-qingdao.aliyuncs.com";
     // accessKey
     private String accessKeyId = "LTAIv2lmFcld1Fhc";
-    private String accessKeySecret = "EpUw9OQrkRhLWnWh9qmJgSGzgO4gSI";
+    private String accessKeySecret = "EwUw30QrkRhLwnWh9qmJgSGzgO4gS1I";
     //空间
     private String bucketName = "xyh20170413";
     //文件存储目录
